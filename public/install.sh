@@ -34,7 +34,7 @@ fi
 echo "Latest version: ${LATEST}"
 
 # Download archive
-ARCHIVE="memvra_${LATEST#v}_${OS}_${ARCH}.tar.gz"
+ARCHIVE="memvra-${OS}-${ARCH}.tar.gz"
 URL="https://github.com/${REPO}/releases/download/${LATEST}/${ARCHIVE}"
 
 TMPDIR=$(mktemp -d)
