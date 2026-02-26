@@ -26,32 +26,32 @@
 <script setup>
 const features = [
   {
-    icon: "&#x1f9e0;",
+    icon: "\u{1F9E0}",
     title: "Persistent Memory",
     description: "Decisions, conventions, constraints, and notes survive across sessions. Store once, use everywhere."
   },
   {
-    icon: "&#x1f50d;",
+    icon: "\u{1F50D}",
     title: "Vector Search",
     description: "Semantic retrieval using embeddings. Ask a question and Memvra finds the most relevant code and memories."
   },
   {
-    icon: "&#x26a1;",
+    icon: "\u{26A1}",
     title: "MCP Server",
     description: "Claude Code, Cursor, and Windsurf call Memvra tools automatically via the Model Context Protocol."
   },
   {
-    icon: "&#x1f4e6;",
+    icon: "\u{1F4E6}",
     title: "Wrap Any Tool",
     description: "memvra wrap gemini launches any CLI tool with project context pre-loaded and captures the session on exit."
   },
   {
-    icon: "&#x1f4e4;",
+    icon: "\u{1F4E4}",
     title: "Auto-Export",
     description: "CLAUDE.md, .cursorrules, PROJECT_CONTEXT.md, and JSON — regenerated automatically on every change."
   },
   {
-    icon: "&#x1f512;",
+    icon: "\u{1F512}",
     title: "Local-First",
     description: "All data stays in .memvra/ on your machine. No accounts, no cloud, no telemetry. MIT licensed."
   }

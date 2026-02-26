@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Memvra auto-generated context files
+.memvra/
+CLAUDE.md
+.cursorrules
+PROJECT_CONTEXT.md
+memvra-context.json

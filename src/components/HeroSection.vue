@@ -46,7 +46,7 @@ function copyInstall() {
           <span class="text-text-muted">$</span>
           <span class="text-white">brew install memvra/tap/memvra</span>
           <span class="text-text-muted group-hover:text-primary transition-colors">
-            {{ copied ? '&#10003;' : '&#x2398;' }}
+            {{ copied ? '\u2713' : '\u2398' }}
           </span>
         </div>
       </div>
