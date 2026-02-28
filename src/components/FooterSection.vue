@@ -13,7 +13,7 @@
       </div>
 
       <p class="text-text-muted text-xs">
-        Built by developers, for developers.
+        Created by <a href="https://github.com/git4ruby" target="_blank" class="hover:text-white transition-colors">Mohit Chandana</a>
       </p>
     </div>
   </footer>
