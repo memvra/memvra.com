@@ -29,8 +29,8 @@
 Source files ──► Scanner ──► Chunker ──► Embedder
                                            │
                     ┌──────────────────────────────────┐
-                    │    .memvra/memvra.db (SQLite)     │
-                    │    memories · sessions · vectors  │
+                    │  .memvra/memvra.db (SQLite)      │
+                    │  memories · sessions · vectors   │
                     └──────────────────────────────────┘
                                     │
                   ┌─────────────────┼─────────────────┐

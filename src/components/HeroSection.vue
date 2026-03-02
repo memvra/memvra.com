@@ -34,7 +34,7 @@ function copyInstall() {
       <!-- Subline -->
       <p class="fade-in fade-in-delay-2 text-lg sm:text-xl text-text-muted max-w-2xl mx-auto mb-10">
         Persistent Memory &middot; Vector Intelligence &middot; One CLI<br class="hidden sm:block" />
-        Switch between Claude, Gemini, Cursor &mdash; type <code class="text-primary font-mono text-base">"continue"</code> and it picks up where you left off.
+        Stop re-explaining your project to AI tools. Memvra builds a persistent knowledge base &mdash; architecture, decisions, session history &mdash; that every AI tool reads automatically.
       </p>
 
       <!-- Install command -->
