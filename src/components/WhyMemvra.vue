@@ -1,5 +1,5 @@
 <template>
-  <section class="px-6 py-20 sm:py-28">
+  <section class="px-6 py-8 sm:py-12">
     <div class="mx-auto max-w-5xl">
       <h2 class="text-3xl sm:text-4xl font-bold text-center mb-4">
         Not just <span class="gradient-text">session migration</span>
@@ -63,7 +63,7 @@
       </div>
 
       <!-- Key Difference Callout -->
-      <div class="mt-12 rounded-xl bg-primary/10 border border-primary/20 p-6 text-center">
+      <div class="mt-4 rounded-xl bg-primary/10 border border-primary/20 p-6 text-center">
         <p class="text-lg">
           <span class="font-semibold text-primary">Key difference:</span>
           <span class="text-text-muted"> Memvra isn't just about switching tools — it's about never having to re-explain your project in the first place.</span>
